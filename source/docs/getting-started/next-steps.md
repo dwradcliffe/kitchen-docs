@@ -13,7 +13,7 @@ From here, there are a few resources that can help you along your infrastructure
 * Send a tweet to [@kitchenci](https://twitter.com/kitchenci) or follow the [#kitchenci](https://twitter.com/search?q=%23kitchenci&src=typd) Twitter hash tag
 * Check out the Test Kitchen [core code](https://github.com/test-kitchen/test-kitchen) on GitHub
 * Submit an [issue, feature, or pull request](https://github.com/test-kitchen/test-kitchen/issues) on the Issue tracker
-* Search RubyGems.org for Test Kitchen [Drivers](https://rubygems.org/search?utf8=%E2%9C%93&query=kitchen-) or Busser [Runner Plugins](https://rubygems.org/search?utf8=%E2%9C%93&query=busser-)
+* Search RubyGems.org for Test Kitchen [Drivers](https://rubygems.org/search?query=kitchen-) or Busser [Runner Plugins](https://rubygems.org/search?query=busser-)
 * Write a blog post describing getting started with Test Kitchen, or an interesting problem Test Kitchen has allowed you to solve
 * Take a look at the excellent O'Reilly book [Test-driven Infrastructure with Chef](http://shop.oreilly.com/product/0636920030973.do)
 
